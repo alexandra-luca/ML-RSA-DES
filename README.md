@@ -1,5 +1,11 @@
 # Machine Learning for Cryptographic Algorithm Identification
 
+## Summary
+
+This is a simulation I did while following the paper "Machine Learning for Cryptographic Algorithm Identification". Paper citation: `Barbosa, F., Vidal, A., & Mello, F. (2016). Machine learning for cryptographic algorithm identification. Journal of Information Security and Cryptography (Enigma), 3(1), 3-8.`
+
+In this project, I created a simple neural network that is able to classify ciphertexts encrypted with either RSA or DES, slightly better than random chance (57%).
+
 ## Descriere generala
 
 Am ales articolul “Machine Learning for Cryptographic Algorithm Identification” de F. M. Barbosa, A. R. S. F. Vidal si F. L. de Mello, din 2016, si am implementat un model ML care identifica algoritmul cu care a fost criptat un text.
